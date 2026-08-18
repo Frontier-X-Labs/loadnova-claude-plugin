@@ -7,7 +7,7 @@ Load Nova is a freight dispatch copilot by Frontier X Labs Technologies Inc. Thi
 From the public marketplace repo:
 
 ```
-/plugin marketplace add github:Frontier-X-Labs/loadnova-claude-plugin
+/plugin marketplace add Frontier-X-Labs/loadnova-claude-plugin
 /plugin install loadnova@loadnova
 ```
 
