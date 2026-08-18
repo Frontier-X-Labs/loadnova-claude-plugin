@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "loadnova",
+  "version": "1.0.0",
+  "description": "Load Nova freight dispatch copilot: routing, driver capacity, broker audits, confirmed dispatch writes, and Education practice over the remote Load Nova MCP server.",
+  "author": {
+    "name": "Frontier X Labs Technologies Inc."
+  },
+  "homepage": "https://loadnova.app",
+  "repository": "https://github.com/Frontier-X-Labs/loadnova-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "loadnova",
+    "dispatch",
+    "freight",
+    "mcp",
+    "routing",
+    "education",
+    "trucking"
+  ]
+}

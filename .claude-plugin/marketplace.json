@@ -1,0 +1,16 @@
+{
+  "name": "loadnova",
+  "description": "Load Nova — freight dispatch copilot and dispatcher Education practice for Claude Code.",
+  "owner": {
+    "name": "Frontier X Labs Technologies Inc.",
+    "url": "https://loadnova.app"
+  },
+  "plugins": [
+    {
+      "name": "loadnova",
+      "source": "./",
+      "description": "Load Nova dispatch and Education tools for Claude",
+      "version": "1.0.0"
+    }
+  ]
+}

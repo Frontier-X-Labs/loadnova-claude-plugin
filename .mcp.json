@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "loadnova": {
+      "type": "http",
+      "url": "https://mcp.staging.loadnova.app/mcp",
+      "timeout": 120000
+    }
+  }
+}
